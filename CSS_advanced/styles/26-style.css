@@ -209,7 +209,7 @@ ul.row {
 }
 
 .card-testimonial .card-quote cite {
-  display: 50%;
+  display: block;
   padding-top: 1rem;
   color: var(--color-primary);
 }
